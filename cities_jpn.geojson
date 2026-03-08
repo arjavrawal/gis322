@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "cities_jpn",
+"features": [
+{ "type": "Feature", "properties": { "id": 31, "name": "Gifu", "country": "JPN", "latitude": 35.42309, "longitude": 136.76275, "population": 412895 }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 100, "name": "Matsuyama", "country": "JPN", "latitude": 33.84554, "longitude": 132.76584, "population": 533541 }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 491, "name": "Fukuoka", "country": "JPN", "latitude": 33.59502, "longitude": 130.41001, "population": 2792000 }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 492, "name": "Miyazaki", "country": "JPN", "latitude": 31.91824, "longitude": 131.41838, "population": 324384 }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 493, "name": "Naha", "country": "JPN", "latitude": 26.20717, "longitude": 127.67297, "population": 905238 }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 494, "name": "Kochi", "country": "JPN", "latitude": 33.56243, "longitude": 133.53752, "population": 335570 }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 505, "name": "Nagoya", "country": "JPN", "latitude": 35.155, "longitude": 136.91499, "population": 3230000 }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 506, "name": "Nagano", "country": "JPN", "latitude": 36.65, "longitude": 138.17001, "population": 594311 }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 507, "name": "Kushiro", "country": "JPN", "latitude": 42.97496, "longitude": 144.37469, "population": 198566 }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 508, "name": "Hakodate", "country": "JPN", "latitude": 41.79498, "longitude": 140.73998, "population": 302984 }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 509, "name": "Kyoto", "country": "JPN", "latitude": 35.02999, "longitude": 135.75, "population": 1805000 }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 510, "name": "Sendai", "country": "JPN", "latitude": 38.28711, "longitude": 141.02172, "population": 2250000 }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 511, "name": "Sakata", "country": "JPN", "latitude": 38.92004, "longitude": 139.85006, "population": 100446 }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 921, "name": "Nagasaki", "country": "JPN", "latitude": 32.76499, "longitude": 129.88503, "population": 435455 }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 1142, "name": "Hiroshima", "country": "JPN", "latitude": 34.38784, "longitude": 132.44291, "population": 2045000 }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 1146, "name": "Sapporo", "country": "JPN", "latitude": 43.07498, "longitude": 141.34004, "population": 2544000 }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 1208, "name": "Osaka", "country": "JPN", "latitude": 34.75004, "longitude": 135.46014, "population": 11294000 }, "geometry": null },
+{ "type": "Feature", "properties": { "id": 1240, "name": "Tokyo", "country": "JPN", "latitude": 35.68502, "longitude": 139.75141, "population": 35676000 }, "geometry": null }
+]
+}
