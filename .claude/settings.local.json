@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import json,sys; nb=json.load\\(open\\(''notebooks/parcels/clean_geometry.ipynb''\\)\\); [print\\(f''=== Cell {i} ===\\\\n{chr\\(10\\).join\\(c[\"\"source\"\"]\\)}\\\\n--- outputs ---\\\\n{c.get\\(\"\"outputs\"\",[]\\)}''\\) for i,c in enumerate\\(nb[''cells'']\\)]\")",
+      "Bash(where python3:*)",
+      "Bash(conda run:*)",
+      "Read(//c/Users/arjav/miniconda3/**)",
+      "Read(//c/Users/arjav/anaconda3/**)",
+      "Read(//c/ProgramData/miniconda3/**)",
+      "Bash(\"/c/Users/arjav/AppData/Local/conda/conda/Scripts/conda.exe\" run:*)"
+    ]
+  }
+}
